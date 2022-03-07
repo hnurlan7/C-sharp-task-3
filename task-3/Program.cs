@@ -68,9 +68,9 @@ namespace task_3
         #region task 4
 
         //// Circle Area
-        //static int CircleArea(int r)
+        //static double CircleArea(double r)
         //{
-        //    int s = 0;
+        //    double s = 0;
         //    if (r > 0)
         //    {
         //        int p = 3;
@@ -80,9 +80,9 @@ namespace task_3
         //}
 
         //// Rectangular Area
-        //static int RectangularArea (int a, int b)
+        //static double RectangularArea (double a, double b)
         //{
-        //    int s = 0;
+        //    double s = 0;
         //    if (a > 0 && b > 0)
         //    {
         //        s = a * b;
@@ -91,9 +91,9 @@ namespace task_3
         //}
 
         //// Triangle Circle Area
-        //static int TriangleCircleArea(int a, int b, int c, int r)
+        //static double TriangleCircleArea(double a, double b, double c, double r)
         //{
-        //    int s = 0, p;
+        //    double s = 0, p;
         //    if (a > 0 && b > 0 && c > 0 && r > 0)
         //    {
         //        p = (a + b + c) / 2;
